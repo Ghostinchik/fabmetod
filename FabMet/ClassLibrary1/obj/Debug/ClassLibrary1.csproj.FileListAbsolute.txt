@@ -1,0 +1,6 @@
+E:\прог\4 курс\КПЗ\FabMet\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\прог\4 курс\КПЗ\FabMet\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\прог\4 курс\КПЗ\FabMet\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\прог\4 курс\КПЗ\FabMet\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\прог\4 курс\КПЗ\FabMet\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\прог\4 курс\КПЗ\FabMet\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

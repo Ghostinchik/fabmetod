@@ -1,0 +1,17 @@
+E:\прог\4 курс\КПЗ\FabMet\FabMet\obj\Debug\netcoreapp3.1\FabMet.csproj.AssemblyReference.cache
+E:\прог\4 курс\КПЗ\FabMet\FabMet\obj\Debug\netcoreapp3.1\FabMet.GeneratedMSBuildEditorConfig.editorconfig
+E:\прог\4 курс\КПЗ\FabMet\FabMet\obj\Debug\netcoreapp3.1\FabMet.AssemblyInfoInputs.cache
+E:\прог\4 курс\КПЗ\FabMet\FabMet\obj\Debug\netcoreapp3.1\FabMet.AssemblyInfo.cs
+E:\прог\4 курс\КПЗ\FabMet\FabMet\obj\Debug\netcoreapp3.1\FabMet.csproj.CoreCompileInputs.cache
+E:\прог\4 курс\КПЗ\FabMet\FabMet\bin\Debug\netcoreapp3.1\FabMet.exe
+E:\прог\4 курс\КПЗ\FabMet\FabMet\bin\Debug\netcoreapp3.1\FabMet.deps.json
+E:\прог\4 курс\КПЗ\FabMet\FabMet\bin\Debug\netcoreapp3.1\FabMet.runtimeconfig.json
+E:\прог\4 курс\КПЗ\FabMet\FabMet\bin\Debug\netcoreapp3.1\FabMet.runtimeconfig.dev.json
+E:\прог\4 курс\КПЗ\FabMet\FabMet\bin\Debug\netcoreapp3.1\FabMet.dll
+E:\прог\4 курс\КПЗ\FabMet\FabMet\bin\Debug\netcoreapp3.1\FabMet.pdb
+E:\прог\4 курс\КПЗ\FabMet\FabMet\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+E:\прог\4 курс\КПЗ\FabMet\FabMet\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+E:\прог\4 курс\КПЗ\FabMet\FabMet\obj\Debug\netcoreapp3.1\FabMet.csproj.CopyComplete
+E:\прог\4 курс\КПЗ\FabMet\FabMet\obj\Debug\netcoreapp3.1\FabMet.dll
+E:\прог\4 курс\КПЗ\FabMet\FabMet\obj\Debug\netcoreapp3.1\FabMet.pdb
+E:\прог\4 курс\КПЗ\FabMet\FabMet\obj\Debug\netcoreapp3.1\FabMet.genruntimeconfig.cache
